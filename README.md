@@ -1,2 +1,2 @@
 # github_workshop
-Test
+Test repository for workshop
